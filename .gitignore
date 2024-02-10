@@ -1,0 +1,5 @@
+.DS_Store
+**/__pycache__/*
+uploaded_image/*
+deep_learning/input/stanford-dogs-dataset/*
+deep_learning/input/model/*
