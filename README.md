@@ -2,7 +2,7 @@
 # Reverse Image Search Engine
 ### Overview
 This project focuses on developing a reverse image search engine using ResNet-152, Milvus, and Flask. The system leverages deep learning and vector similarity to identify images that closely match a given input image.
-![Website Screeshot](static/screenshot.png)
+![Website Screeshot](static/screenshot1.png)
 
 ### Objectives
 * Build a scalable and efficient reverse image search engine.
